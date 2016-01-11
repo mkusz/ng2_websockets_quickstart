@@ -1,2 +1,2 @@
 # ng2_websockets_quickstart
-Angular 2.0.0-beta.1 with websocket quickstart
+This a short example how to use websockets in Angular2. In this example you can see a very simple reconnection algorithm without any external websocket implementation. This example can be run using example echo websocket from [www.websocket.org](http://www.websocket.org/echo.html) or by running local python websocket serwer. Websocket from python can also be configured to run in pusing message mode (no data send from web browser). Just read commments in code. To run this example you need to use npm and run Python script (works for Python > 2.7).
